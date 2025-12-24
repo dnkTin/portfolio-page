@@ -28,8 +28,8 @@ body {
 }
 
 .page-content {
-  max-width: 1040px;
-  padding: 2.5rem 1.5rem 4rem;
+  width: min(1220px, 94vw);
+  padding: 3rem 2rem 4.25rem;
   margin: 0 auto;
 }
 

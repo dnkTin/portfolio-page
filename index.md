@@ -7,6 +7,18 @@ title: Welcome to my blog
 	<p class="eyebrow">Building in public</p>
 	<h1>Engineer, learner, note-taker.</h1>
 	<p class="lede">I write concise, practical notes about what I'm learning in engineering, architecture, and tooling.</p>
+	<div class="stack-banner">
+		<span class="stack-label">Core stack</span>
+		<ul class="stack-list">
+			<li>Python</li>
+			<li>React</li>
+			<li>Next.js</li>
+			<li>Vue.js</li>
+			<li>Node.js</li>
+			<li>PostgreSQL</li>
+			<li>SQL</li>
+		</ul>
+	</div>
 	<div class="hero-actions">
 		<a class="primary-button" href="#posts">Read recent posts</a>
 		<a class="ghost-button" href="#about">About me</a>

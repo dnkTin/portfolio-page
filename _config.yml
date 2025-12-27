@@ -3,3 +3,5 @@ title: DNK — Engineering Notes
 author: DNK
 description: Notes on building, shipping, and learning in public.
 show_excerpts: true
+header_pages:
+	- resume.md
